@@ -15,6 +15,7 @@
 		DE07BA4C1D2B842B003B2280 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE07BA4A1D2B842B003B2280 /* LaunchScreen.storyboard */; };
 		DE07BA571D2B842B003B2280 /* PercentViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DE07BA561D2B842B003B2280 /* PercentViewTests.m */; };
 		DE07BA621D2B842B003B2280 /* PercentViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = DE07BA611D2B842B003B2280 /* PercentViewUITests.m */; };
+		DE07BA711D2B843F003B2280 /* ZPPercentView.m in Sources */ = {isa = PBXBuildFile; fileRef = DE07BA701D2B843F003B2280 /* ZPPercentView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		DE07BA5D1D2B842B003B2280 /* PercentViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PercentViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE07BA611D2B842B003B2280 /* PercentViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PercentViewUITests.m; sourceTree = "<group>"; };
 		DE07BA631D2B842B003B2280 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE07BA6F1D2B843F003B2280 /* ZPPercentView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZPPercentView.h; sourceTree = "<group>"; };
+		DE07BA701D2B843F003B2280 /* ZPPercentView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZPPercentView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				DE07BA401D2B842A003B2280 /* AppDelegate.m */,
 				DE07BA421D2B842A003B2280 /* ViewController.h */,
 				DE07BA431D2B842A003B2280 /* ViewController.m */,
+				DE07BA6F1D2B843F003B2280 /* ZPPercentView.h */,
+				DE07BA701D2B843F003B2280 /* ZPPercentView.m */,
 				DE07BA451D2B842A003B2280 /* Main.storyboard */,
 				DE07BA481D2B842B003B2280 /* Assets.xcassets */,
 				DE07BA4A1D2B842B003B2280 /* LaunchScreen.storyboard */,
@@ -270,6 +275,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DE07BA711D2B843F003B2280 /* ZPPercentView.m in Sources */,
 				DE07BA441D2B842A003B2280 /* ViewController.m in Sources */,
 				DE07BA411D2B842A003B2280 /* AppDelegate.m in Sources */,
 				DE07BA3E1D2B842A003B2280 /* main.m in Sources */,
