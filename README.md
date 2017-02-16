@@ -54,5 +54,5 @@
 }
 ```
 #演示
-因为我传进去的就是80% 所以才能演示到80%
+因为我传进去的就是80% 所以才能演示到80%  
 ![百分比.gif](http://upload-images.jianshu.io/upload_images/2368708-f2b57c8b8a9f8b6d.gif?imageMogr2/auto-orient/strip)
